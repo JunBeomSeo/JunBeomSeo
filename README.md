@@ -1,7 +1,9 @@
 ## 안녕하세요, 서준범입니다.
 
 ### 🔭 수행 프로젝트
-- **SemiProject 1:** 병원관리 시스템 
+- **SemiProject 1:** 병원관리 시스템
+- **SemiProject 2:** 그룹웨어 플랫폼
+- **FinalProject:** 스터디 매칭 & 학습관리 통합 플랫폼
 
 ### 💻 기술 스택
 - **언어:** Java, JavaScript, HTML, CSS
