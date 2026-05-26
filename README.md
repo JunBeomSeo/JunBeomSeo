@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요, 서준범입니다
 
-**"안된다고 포기하기보다 한번 해보자는 도전정신을 지닌 백엔드 개발자"**
+**"목표를 세우면 끝까지 해내는 백엔드 개발자"**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-junbeom--coding.org-FFC03C?style=for-the-badge&logo=google-chrome&logoColor=black)](https://junbeom-coding.org)
 [![Email](https://img.shields.io/badge/Email-tjwnsqja12@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:tjwnsqja12@naver.com)
